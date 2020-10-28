@@ -187,8 +187,8 @@ html {
     .faq-image::after {
         content: "";
         position: absolute;
-        top: 190px;
-        left: -92px; 
+        top: 214px;
+        left: -114px; 
         width: 191px;
         height: 184px;
         background-image: url("./images/illustration-box-desktop.svg");
